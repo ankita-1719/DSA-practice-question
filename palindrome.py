@@ -10,3 +10,4 @@ def palindrome_number(n):
 
 n = 567435
 print(palindrome_number(n))    
+# T C = O(log 10 (n))

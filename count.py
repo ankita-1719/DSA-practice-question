@@ -9,3 +9,5 @@ def count_number(n):
 
 n = 5438
 print(count_number(n))    
+
+# T C = O(log 10 (n))
